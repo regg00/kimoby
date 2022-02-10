@@ -4,3 +4,4 @@ dist/
 src/__pycache__
 *.egg*
 set_test_env.ps1
+test.py
