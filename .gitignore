@@ -1,0 +1,6 @@
+dist/
+.venv/
+.vscode/
+src/__pycache__
+*.egg*
+set_test_env.ps1
