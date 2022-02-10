@@ -1,13 +1,8 @@
-from lib2to3.pgen2 import token
-import logging
-from tkinter import NO
-from urllib.parse import urljoin
-import requests
-from datetime import datetime
-from pprint import pprint
-import os
-import phonenumbers
 import json
+import logging
+
+import phonenumbers
+import requests
 
 
 class Kimoby:
